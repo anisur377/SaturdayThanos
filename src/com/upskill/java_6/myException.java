@@ -13,3 +13,4 @@ public class myException extends Exception {
 		return a;
 	}
 }
+/// using extends for exception

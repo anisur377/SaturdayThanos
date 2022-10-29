@@ -8,4 +8,7 @@ public class SingletonUse {
 
 	}
 
-} // test
+}
+// test
+
+// Test devanis
