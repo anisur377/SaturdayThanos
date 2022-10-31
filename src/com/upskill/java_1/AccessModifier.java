@@ -2,14 +2,12 @@ package com.upskill.java_1;
 
 public class AccessModifier {
 
-//Different Access Modifier in Java
-
-public String name = "Anis";					//Public - Any class can access
-
-private int age = 45;							//Private - only same class can access
-
-protected int ssn = 12354684;					//Protected - classes in the same package and subclass can access
-
-String address = "Woodside";					//Default - class in same package can access
-
+		public String name = "Anis";	// public - Any class can access
+		
+		private int age = 45;			// private - Only same class can access
+		
+		protected int Ssn = 123456;		// protected - classes in the same package and subclass or child class
+		
+		String Address = "Woodside";	// default - classes in the same package can access
+		
 }
