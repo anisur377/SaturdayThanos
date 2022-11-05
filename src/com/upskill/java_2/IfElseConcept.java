@@ -27,7 +27,7 @@ public class IfElseConcept {
 		int b1 = 500;
 		int c1 = 300;
 		
-		// Nested if-elase
+		// Nested if-else
 		
 		if (a1>b1 & a1>c1){ 
 			System.out.println("a1 is the greatest");
@@ -38,4 +38,4 @@ public class IfElseConcept {
 		}
 	}
 
-}
+} // Practice ifElse Concept
